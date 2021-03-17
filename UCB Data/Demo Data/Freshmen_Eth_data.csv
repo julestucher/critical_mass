@@ -1,0 +1,625 @@
+Academic Yr,Category,Ethnicity,Perc FR,FilteredCountFR
+2019,Applicants,International,19.49%,17035
+2019,Applicants,Unknown,3.04%,2655
+2019,Applicants,White,20.61%,18013
+2019,Applicants,Asian,33.31%,29116
+2019,Applicants,Chicano/Latino,18.17%,15877
+2019,Applicants,American Indian,0.39%,338
+2019,Applicants,African American,4.99%,4364
+2019,Applicants,All,100.00%,87398
+2018,Applicants,International,19.04%,17064
+2018,Applicants,Unknown,3.40%,3046
+2018,Applicants,White,21.10%,18911
+2018,Applicants,Asian,32.55%,29170
+2018,Applicants,Chicano/Latino,18.18%,16293
+2018,Applicants,American Indian,0.43%,382
+2018,Applicants,African American,5.29%,4743
+2018,Applicants,All,100.00%,89609
+2017,Applicants,International,18.15%,15434
+2017,Applicants,Unknown,3.11%,2643
+2017,Applicants,White,23.58%,20053
+2017,Applicants,Asian,30.77%,26166
+2017,Applicants,Chicano/Latino,18.68%,15883
+2017,Applicants,American Indian,0.50%,427
+2017,Applicants,African American,5.22%,4439
+2017,Applicants,All,100.00%,85045
+2016,Applicants,International,18.94%,15633
+2016,Applicants,Unknown,3.30%,2728
+2016,Applicants,White,24.11%,19905
+2016,Applicants,Asian,30.19%,24928
+2016,Applicants,Chicano/Latino,17.83%,14724
+2016,Applicants,American Indian,0.51%,422
+2016,Applicants,African American,5.11%,4220
+2016,Applicants,All,100.00%,82560
+2015,Applicants,International,19.05%,15027
+2015,Applicants,Unknown,3.16%,2494
+2015,Applicants,White,23.81%,18781
+2015,Applicants,Asian,30.88%,24365
+2015,Applicants,Chicano/Latino,17.57%,13865
+2015,Applicants,American Indian,0.53%,417
+2015,Applicants,African American,5.00%,3944
+2015,Applicants,All,100.00%,78893
+2014,Applicants,International,18.59%,13719
+2014,Applicants,Unknown,2.80%,2066
+2014,Applicants,White,24.12%,17795
+2014,Applicants,Asian,31.31%,23099
+2014,Applicants,Chicano/Latino,17.78%,13122
+2014,Applicants,American Indian,0.60%,444
+2014,Applicants,African American,4.80%,3540
+2014,Applicants,All,100.00%,73785
+2013,Applicants,International,17.13%,11601
+2013,Applicants,Unknown,3.04%,2059
+2013,Applicants,White,24.90%,16859
+2013,Applicants,Asian,31.25%,21157
+2013,Applicants,Chicano/Latino,18.20%,12321
+2013,Applicants,American Indian,0.48%,328
+2013,Applicants,African American,4.99%,3381
+2013,Applicants,All,100.00%,67706
+2012,Applicants,International,15.29%,9434
+2012,Applicants,Unknown,2.77%,1708
+2012,Applicants,White,24.96%,15406
+2012,Applicants,Asian,33.31%,20555
+2012,Applicants,Chicano/Latino,18.01%,11117
+2012,Applicants,American Indian,0.60%,368
+2012,Applicants,African American,5.07%,3129
+2012,Applicants,All,100.00%,61717
+2011,Applicants,International,11.95%,6330
+2011,Applicants,Unknown,2.41%,1279
+2011,Applicants,White,27.56%,14604
+2011,Applicants,Asian,34.66%,18365
+2011,Applicants,Chicano/Latino,17.79%,9427
+2011,Applicants,American Indian,0.62%,330
+2011,Applicants,African American,5.00%,2647
+2011,Applicants,All,100.00%,52982
+2010,Applicants,International,9.78%,4929
+2010,Applicants,Unknown,5.40%,2721
+2010,Applicants,White,28.13%,14170
+2010,Applicants,Asian,34.41%,17332
+2010,Applicants,Chicano/Latino,16.30%,8209
+2010,Applicants,American Indian,0.70%,352
+2010,Applicants,African American,5.28%,2661
+2010,Applicants,All,100.00%,50374
+2009,Applicants,International,9.00%,4383
+2009,Applicants,Unknown,5.48%,2670
+2009,Applicants,White,29.88%,14547
+2009,Applicants,Asian,34.30%,16697
+2009,Applicants,Chicano/Latino,16.02%,7797
+2009,Applicants,American Indian,0.55%,270
+2009,Applicants,African American,4.76%,2318
+2009,Applicants,All,100.00%,48682
+2008,Applicants,International,6.84%,3317
+2008,Applicants,Unknown,6.74%,3267
+2008,Applicants,White,31.04%,15045
+2008,Applicants,Asian,34.46%,16702
+2008,Applicants,Chicano/Latino,15.79%,7653
+2008,Applicants,American Indian,0.51%,246
+2008,Applicants,African American,4.63%,2243
+2008,Applicants,All,100.00%,48473
+2007,Applicants,International,5.90%,2606
+2007,Applicants,Unknown,6.35%,2805
+2007,Applicants,White,31.80%,14040
+2007,Applicants,Asian,36.23%,15996
+2007,Applicants,Chicano/Latino,14.60%,6446
+2007,Applicants,American Indian,0.53%,233
+2007,Applicants,African American,4.58%,2023
+2007,Applicants,All,100.00%,44149
+2006,Applicants,International,5.24%,2189
+2006,Applicants,Unknown,6.85%,2862
+2006,Applicants,White,31.23%,13053
+2006,Applicants,Asian,37.47%,15660
+2006,Applicants,Chicano/Latino,14.16%,5918
+2006,Applicants,American Indian,0.60%,251
+2006,Applicants,African American,4.46%,1863
+2006,Applicants,All,100.00%,41796
+2005,Applicants,International,5.12%,1896
+2005,Applicants,Unknown,7.22%,2671
+2005,Applicants,White,32.66%,12089
+2005,Applicants,Asian,36.76%,13607
+2005,Applicants,Chicano/Latino,13.46%,4982
+2005,Applicants,American Indian,0.52%,191
+2005,Applicants,African American,4.26%,1578
+2005,Applicants,All,100.00%,37014
+2004,Applicants,International,4.14%,1524
+2004,Applicants,Unknown,8.92%,3284
+2004,Applicants,White,31.54%,11617
+2004,Applicants,Asian,37.50%,13813
+2004,Applicants,Chicano/Latino,13.18%,4853
+2004,Applicants,American Indian,0.50%,185
+2004,Applicants,African American,4.23%,1558
+2004,Applicants,All,100.00%,36834
+2003,Applicants,International,4.72%,1746
+2003,Applicants,Unknown,9.64%,3568
+2003,Applicants,White,31.49%,11651
+2003,Applicants,Asian,36.38%,13462
+2003,Applicants,Chicano/Latino,12.58%,4653
+2003,Applicants,American Indian,0.54%,198
+2003,Applicants,African American,4.66%,1723
+2003,Applicants,All,100.00%,37001
+2002,Applicants,International,4.49%,1635
+2002,Applicants,Unknown,8.68%,3165
+2002,Applicants,White,32.47%,11835
+2002,Applicants,Asian,37.78%,13770
+2002,Applicants,Chicano/Latino,11.75%,4282
+2002,Applicants,American Indian,0.55%,200
+2002,Applicants,African American,4.27%,1558
+2002,Applicants,All,100.00%,36445
+2001,Applicants,International,5.63%,2039
+2001,Applicants,Unknown,9.57%,3467
+2001,Applicants,White,31.79%,11515
+2001,Applicants,Asian,37.41%,13551
+2001,Applicants,Chicano/Latino,11.01%,3990
+2001,Applicants,American Indian,0.57%,207
+2001,Applicants,African American,4.02%,1458
+2001,Applicants,All,100.00%,36227
+2000,Applicants,International,5.08%,1695
+2000,Applicants,Unknown,9.80%,3268
+2000,Applicants,White,32.95%,10989
+2000,Applicants,Asian,37.39%,12469
+2000,Applicants,Chicano/Latino,10.31%,3439
+2000,Applicants,American Indian,0.52%,173
+2000,Applicants,African American,3.95%,1318
+2000,Applicants,All,100.00%,33351
+1999,Applicants,International,4.81%,1503
+1999,Applicants,Unknown,9.67%,3020
+1999,Applicants,White,34.62%,10813
+1999,Applicants,Asian,37.69%,11772
+1999,Applicants,Chicano/Latino,9.04%,2823
+1999,Applicants,American Indian,0.51%,159
+1999,Applicants,African American,3.66%,1143
+1999,Applicants,All,100.00%,31233
+1998,Applicants,International,4.72%,1421
+1998,Applicants,Unknown,15.39%,4638
+1998,Applicants,White,29.64%,8931
+1998,Applicants,Asian,35.03%,10557
+1998,Applicants,Chicano/Latino,10.47%,3156
+1998,Applicants,American Indian,0.58%,175
+1998,Applicants,African American,4.17%,1256
+1998,Applicants,All,100.00%,30134
+1997,Applicants,International,5.21%,1420
+1997,Applicants,Unknown,6.00%,1636
+1997,Applicants,White,34.58%,9430
+1997,Applicants,Asian,38.84%,10593
+1997,Applicants,Chicano/Latino,10.55%,2878
+1997,Applicants,American Indian,0.51%,138
+1997,Applicants,African American,4.31%,1176
+1997,Applicants,All,100.00%,27271
+1996,Applicants,International,3.79%,955
+1996,Applicants,Unknown,7.57%,1909
+1996,Applicants,White,33.84%,8531
+1996,Applicants,Asian,38.08%,9600
+1996,Applicants,Chicano/Latino,11.23%,2831
+1996,Applicants,American Indian,0.68%,172
+1996,Applicants,African American,4.81%,1213
+1996,Applicants,All,100.00%,25211
+1995,Applicants,International,4.26%,977
+1995,Applicants,Unknown,6.43%,1474
+1995,Applicants,White,33.92%,7771
+1995,Applicants,Asian,37.37%,8560
+1995,Applicants,Chicano/Latino,11.92%,2730
+1995,Applicants,American Indian,0.86%,197
+1995,Applicants,African American,5.23%,1199
+1995,Applicants,All,100.00%,22908
+1994,Applicants,International,3.62%,759
+1994,Applicants,Unknown,5.98%,1255
+1994,Applicants,White,33.28%,6984
+1994,Applicants,Asian,39.73%,8336
+1994,Applicants,Chicano/Latino,11.55%,2423
+1994,Applicants,American Indian,0.67%,140
+1994,Applicants,African American,5.18%,1087
+1994,Applicants,All,100.00%,20984
+2019,Admits,International,10.81%,1543
+2019,Admits,Unknown,4.63%,661
+2019,Admits,White,22.57%,3223
+2019,Admits,Asian,41.87%,5978
+2019,Admits,Chicano/Latino,15.98%,2282
+2019,Admits,American Indian,0.57%,82
+2019,Admits,African American,3.56%,508
+2019,Admits,All,100.00%,14277
+2018,Admits,International,10.92%,1453
+2018,Admits,Unknown,5.24%,697
+2018,Admits,White,23.42%,3115
+2018,Admits,Asian,40.43%,5378
+2018,Admits,Chicano/Latino,15.66%,2083
+2018,Admits,American Indian,0.39%,52
+2018,Admits,African American,3.93%,523
+2018,Admits,All,100.00%,13301
+2017,Admits,International,8.93%,1299
+2017,Admits,Unknown,4.85%,706
+2017,Admits,White,27.13%,3947
+2017,Admits,Asian,40.52%,5895
+2017,Admits,Chicano/Latino,14.55%,2117
+2017,Admits,American Indian,0.63%,92
+2017,Admits,African American,3.39%,493
+2017,Admits,All,100.00%,14549
+2016,Admits,International,8.07%,1128
+2016,Admits,Unknown,5.42%,758
+2016,Admits,White,27.38%,3827
+2016,Admits,Asian,41.41%,5787
+2016,Admits,Chicano/Latino,13.84%,1934
+2016,Admits,American Indian,0.55%,77
+2016,Admits,African American,3.32%,464
+2016,Admits,All,100.00%,13975
+2015,Admits,International,10.58%,1409
+2015,Admits,Unknown,4.94%,658
+2015,Admits,White,26.25%,3496
+2015,Admits,Asian,40.41%,5383
+2015,Admits,Chicano/Latino,14.04%,1870
+2015,Admits,American Indian,0.56%,75
+2015,Admits,African American,3.22%,429
+2015,Admits,All,100.00%,13320
+2014,Admits,International,12.77%,1509
+2014,Admits,Unknown,4.31%,509
+2014,Admits,White,26.90%,3179
+2014,Admits,Asian,38.74%,4579
+2014,Admits,Chicano/Latino,13.66%,1615
+2014,Admits,American Indian,0.76%,90
+2014,Admits,African American,2.87%,339
+2014,Admits,All,100.00%,11820
+2013,Admits,International,15.00%,1789
+2013,Admits,Unknown,4.17%,497
+2013,Admits,White,27.29%,3256
+2013,Admits,Asian,38.03%,4537
+2013,Admits,Chicano/Latino,11.97%,1428
+2013,Admits,American Indian,0.50%,60
+2013,Admits,African American,3.04%,363
+2013,Admits,All,100.00%,11930
+2012,Admits,International,11.36%,1262
+2012,Admits,Unknown,3.90%,433
+2012,Admits,White,27.02%,3001
+2012,Admits,Asian,40.16%,4461
+2012,Admits,Chicano/Latino,13.59%,1510
+2012,Admits,American Indian,0.68%,76
+2012,Admits,African American,3.29%,365
+2012,Admits,All,100.00%,11108
+2011,Admits,International,12.70%,1454
+2011,Admits,Unknown,3.22%,369
+2011,Admits,White,28.81%,3299
+2011,Admits,Asian,39.29%,4500
+2011,Admits,Chicano/Latino,12.22%,1399
+2011,Admits,American Indian,0.67%,77
+2011,Admits,African American,3.09%,354
+2011,Admits,All,100.00%,11452
+2010,Admits,International,10.69%,1154
+2010,Admits,Unknown,6.72%,725
+2010,Admits,White,30.45%,3287
+2010,Admits,Asian,37.01%,3995
+2010,Admits,Chicano/Latino,11.27%,1217
+2010,Admits,American Indian,0.74%,80
+2010,Admits,African American,3.12%,337
+2010,Admits,All,100.00%,10795
+2009,Admits,International,7.22%,760
+2009,Admits,Unknown,6.95%,732
+2009,Admits,White,31.52%,3318
+2009,Admits,Asian,38.34%,4036
+2009,Admits,Chicano/Latino,12.34%,1299
+2009,Admits,American Indian,0.47%,49
+2009,Admits,African American,3.17%,334
+2009,Admits,All,100.00%,10528
+2008,Admits,International,7.21%,750
+2008,Admits,Unknown,8.46%,880
+2008,Admits,White,31.60%,3288
+2008,Admits,Asian,37.43%,3895
+2008,Admits,Chicano/Latino,11.79%,1227
+2008,Admits,American Indian,0.44%,46
+2008,Admits,African American,3.07%,319
+2008,Admits,All,100.00%,10405
+2007,Admits,International,3.14%,322
+2007,Admits,Unknown,7.67%,786
+2007,Admits,White,33.29%,3413
+2007,Admits,Asian,40.02%,4103
+2007,Admits,Chicano/Latino,12.16%,1247
+2007,Admits,American Indian,0.58%,59
+2007,Admits,African American,3.14%,322
+2007,Admits,All,100.00%,10252
+2006,Admits,International,2.86%,284
+2006,Admits,Unknown,8.11%,806
+2006,Admits,White,32.07%,3188
+2006,Admits,Asian,41.04%,4080
+2006,Admits,Chicano/Latino,12.08%,1201
+2006,Admits,American Indian,0.58%,58
+2006,Admits,African American,3.26%,324
+2006,Admits,All,100.00%,9941
+2005,Admits,International,2.81%,276
+2005,Admits,Unknown,8.02%,788
+2005,Admits,White,34.38%,3379
+2005,Admits,Asian,39.56%,3888
+2005,Admits,Chicano/Latino,11.61%,1141
+2005,Admits,American Indian,0.54%,53
+2005,Admits,African American,3.09%,304
+2005,Admits,All,100.00%,9829
+2004,Admits,International,2.13%,193
+2004,Admits,Unknown,9.60%,869
+2004,Admits,White,34.93%,3163
+2004,Admits,Asian,39.58%,3584
+2004,Admits,Chicano/Latino,10.67%,966
+2004,Admits,American Indian,0.45%,41
+2004,Admits,African American,2.64%,239
+2004,Admits,All,100.00%,9055
+2003,Admits,International,2.95%,261
+2003,Admits,Unknown,10.35%,916
+2003,Admits,White,32.24%,2853
+2003,Admits,Asian,38.39%,3397
+2003,Admits,Chicano/Latino,11.78%,1042
+2003,Admits,American Indian,0.58%,51
+2003,Admits,African American,3.71%,328
+2003,Admits,All,100.00%,8848
+2002,Admits,International,2.10%,183
+2002,Admits,Unknown,9.45%,823
+2002,Admits,White,33.30%,2900
+2002,Admits,Asian,39.00%,3396
+2002,Admits,Chicano/Latino,11.82%,1029
+2002,Admits,American Indian,0.53%,46
+2002,Admits,African American,3.80%,331
+2002,Admits,All,100.00%,8708
+2001,Admits,International,2.02%,182
+2001,Admits,Unknown,10.79%,974
+2001,Admits,White,33.16%,2994
+2001,Admits,Asian,38.24%,3452
+2001,Admits,Chicano/Latino,11.39%,1028
+2001,Admits,American Indian,0.63%,57
+2001,Admits,African American,3.78%,341
+2001,Admits,All,100.00%,9028
+2000,Admits,International,2.56%,228
+2000,Admits,Unknown,11.08%,987
+2000,Admits,White,33.85%,3015
+2000,Admits,Asian,37.74%,3361
+2000,Admits,Chicano/Latino,10.26%,914
+2000,Admits,American Indian,0.54%,48
+2000,Admits,African American,3.96%,353
+2000,Admits,All,100.00%,8906
+1999,Admits,International,2.57%,220
+1999,Admits,Unknown,10.72%,917
+1999,Admits,White,35.16%,3008
+1999,Admits,Asian,38.53%,3297
+1999,Admits,Chicano/Latino,8.92%,763
+1999,Admits,American Indian,0.48%,41
+1999,Admits,African American,3.62%,310
+1999,Admits,All,100.00%,8556
+1998,Admits,International,2.32%,198
+1998,Admits,Unknown,16.89%,1444
+1998,Admits,White,32.88%,2811
+1998,Admits,Asian,37.05%,3167
+1998,Admits,Chicano/Latino,7.59%,649
+1998,Admits,American Indian,0.36%,31
+1998,Admits,African American,2.90%,248
+1998,Admits,All,100.00%,8548
+1997,Admits,International,2.36%,202
+1997,Admits,Unknown,7.30%,625
+1997,Admits,White,33.01%,2827
+1997,Admits,Asian,35.08%,3005
+1997,Admits,Chicano/Latino,14.92%,1278
+1997,Admits,American Indian,0.77%,66
+1997,Admits,African American,6.56%,562
+1997,Admits,All,100.00%,8565
+1996,Admits,International,2.25%,205
+1996,Admits,Unknown,7.52%,686
+1996,Admits,White,33.76%,3080
+1996,Admits,Asian,33.61%,3066
+1996,Admits,Chicano/Latino,15.11%,1378
+1996,Admits,American Indian,1.21%,110
+1996,Admits,African American,6.54%,597
+1996,Admits,All,100.00%,9122
+1995,Admits,International,2.27%,203
+1995,Admits,Unknown,6.42%,573
+1995,Admits,White,33.21%,2965
+1995,Admits,Asian,32.84%,2932
+1995,Admits,Chicano/Latino,16.87%,1506
+1995,Admits,American Indian,1.50%,134
+1995,Admits,African American,6.88%,614
+1995,Admits,All,100.00%,8927
+1994,Admits,International,1.92%,165
+1994,Admits,Unknown,5.97%,512
+1994,Admits,White,32.44%,2784
+1994,Admits,Asian,36.01%,3090
+1994,Admits,Chicano/Latino,16.02%,1375
+1994,Admits,American Indian,1.15%,99
+1994,Admits,African American,6.48%,556
+1994,Admits,All,100.00%,8581
+2019,Enrollees,International,13.14%,848
+2019,Enrollees,Unknown,4.66%,301
+2019,Enrollees,White,21.06%,1359
+2019,Enrollees,Asian,42.95%,2772
+2019,Enrollees,Chicano/Latino,15.06%,972
+2019,Enrollees,American Indian,0.37%,24
+2019,Enrollees,African American,2.76%,178
+2019,Enrollees,All,100.00%,6454
+2018,Enrollees,International,13.29%,799
+2018,Enrollees,Unknown,4.79%,288
+2018,Enrollees,White,21.24%,1277
+2018,Enrollees,Asian,41.63%,2503
+2018,Enrollees,Chicano/Latino,15.57%,936
+2018,Enrollees,American Indian,0.33%,20
+2018,Enrollees,African American,3.14%,189
+2018,Enrollees,All,100.00%,6012
+2017,Enrollees,International,10.93%,697
+2017,Enrollees,Unknown,4.72%,301
+2017,Enrollees,White,24.53%,1565
+2017,Enrollees,Asian,42.08%,2684
+2017,Enrollees,Chicano/Latino,14.45%,922
+2017,Enrollees,American Indian,0.38%,24
+2017,Enrollees,African American,2.92%,186
+2017,Enrollees,All,100.00%,6379
+2016,Enrollees,International,9.37%,586
+2016,Enrollees,Unknown,5.25%,328
+2016,Enrollees,White,25.62%,1602
+2016,Enrollees,Asian,43.17%,2699
+2016,Enrollees,Chicano/Latino,13.48%,843
+2016,Enrollees,American Indian,0.35%,22
+2016,Enrollees,African American,2.75%,172
+2016,Enrollees,All,100.00%,6252
+2015,Enrollees,International,12.38%,687
+2015,Enrollees,Unknown,4.72%,262
+2015,Enrollees,White,24.20%,1343
+2015,Enrollees,Asian,42.05%,2334
+2015,Enrollees,Chicano/Latino,13.37%,742
+2015,Enrollees,American Indian,0.49%,27
+2015,Enrollees,African American,2.79%,155
+2015,Enrollees,All,100.00%,5550
+2014,Enrollees,International,13.68%,748
+2014,Enrollees,Unknown,3.73%,204
+2014,Enrollees,White,24.73%,1352
+2014,Enrollees,Asian,39.75%,2173
+2014,Enrollees,Chicano/Latino,14.42%,788
+2014,Enrollees,American Indian,0.77%,42
+2014,Enrollees,African American,2.91%,159
+2014,Enrollees,All,100.00%,5466
+2013,Enrollees,International,18.02%,848
+2013,Enrollees,Unknown,3.57%,168
+2013,Enrollees,White,24.61%,1158
+2013,Enrollees,Asian,38.76%,1824
+2013,Enrollees,Chicano/Latino,11.90%,560
+2013,Enrollees,American Indian,0.38%,18
+2013,Enrollees,African American,2.76%,130
+2013,Enrollees,All,100.00%,4706
+2012,Enrollees,International,12.69%,528
+2012,Enrollees,Unknown,3.32%,138
+2012,Enrollees,White,24.07%,1002
+2012,Enrollees,Asian,42.84%,1783
+2012,Enrollees,Chicano/Latino,12.97%,540
+2012,Enrollees,American Indian,0.70%,29
+2012,Enrollees,African American,3.41%,142
+2012,Enrollees,All,100.00%,4162
+2011,Enrollees,International,14.88%,661
+2011,Enrollees,Unknown,2.30%,102
+2011,Enrollees,White,26.76%,1189
+2011,Enrollees,Asian,41.48%,1843
+2011,Enrollees,Chicano/Latino,10.92%,485
+2011,Enrollees,American Indian,0.74%,33
+2011,Enrollees,African American,2.93%,130
+2011,Enrollees,All,100.00%,4443
+2010,Enrollees,International,12.46%,512
+2010,Enrollees,Unknown,6.08%,250
+2010,Enrollees,White,27.91%,1147
+2010,Enrollees,Asian,39.50%,1623
+2010,Enrollees,Chicano/Latino,10.37%,426
+2010,Enrollees,American Indian,0.68%,28
+2010,Enrollees,African American,2.99%,123
+2010,Enrollees,All,100.00%,4109
+2009,Enrollees,International,7.46%,325
+2009,Enrollees,Unknown,5.88%,256
+2009,Enrollees,White,30.33%,1321
+2009,Enrollees,Asian,41.99%,1829
+2009,Enrollees,Chicano/Latino,10.95%,477
+2009,Enrollees,American Indian,0.44%,19
+2009,Enrollees,African American,2.96%,129
+2009,Enrollees,All,100.00%,4356
+2008,Enrollees,International,8.31%,354
+2008,Enrollees,Unknown,7.35%,313
+2008,Enrollees,White,27.65%,1178
+2008,Enrollees,Asian,41.96%,1788
+2008,Enrollees,Chicano/Latino,10.87%,463
+2008,Enrollees,American Indian,0.45%,19
+2008,Enrollees,African American,3.43%,146
+2008,Enrollees,All,100.00%,4261
+2007,Enrollees,International,3.03%,128
+2007,Enrollees,Unknown,6.56%,277
+2007,Enrollees,White,29.85%,1261
+2007,Enrollees,Asian,45.21%,1910
+2007,Enrollees,Chicano/Latino,11.64%,492
+2007,Enrollees,American Indian,0.50%,21
+2007,Enrollees,African American,3.22%,136
+2007,Enrollees,All,100.00%,4225
+2006,Enrollees,International,2.55%,106
+2006,Enrollees,Unknown,7.10%,295
+2006,Enrollees,White,28.96%,1204
+2006,Enrollees,Asian,45.78%,1903
+2006,Enrollees,Chicano/Latino,11.57%,481
+2006,Enrollees,American Indian,0.41%,17
+2006,Enrollees,African American,3.63%,151
+2006,Enrollees,All,100.00%,4157
+2005,Enrollees,International,2.51%,103
+2005,Enrollees,Unknown,7.04%,289
+2005,Enrollees,White,30.06%,1234
+2005,Enrollees,Asian,46.33%,1902
+2005,Enrollees,Chicano/Latino,10.45%,429
+2005,Enrollees,American Indian,0.34%,14
+2005,Enrollees,African American,3.26%,134
+2005,Enrollees,All,100.00%,4105
+2004,Enrollees,International,2.18%,80
+2004,Enrollees,Unknown,9.15%,336
+2004,Enrollees,White,31.85%,1170
+2004,Enrollees,Asian,44.02%,1617
+2004,Enrollees,Chicano/Latino,9.42%,346
+2004,Enrollees,American Indian,0.44%,16
+2004,Enrollees,African American,2.94%,108
+2004,Enrollees,All,100.00%,3673
+2003,Enrollees,International,2.74%,100
+2003,Enrollees,Unknown,9.39%,343
+2003,Enrollees,White,28.81%,1052
+2003,Enrollees,Asian,43.73%,1597
+2003,Enrollees,Chicano/Latino,10.84%,396
+2003,Enrollees,American Indian,0.44%,16
+2003,Enrollees,African American,4.05%,148
+2003,Enrollees,All,100.00%,3652
+2002,Enrollees,International,2.38%,87
+2002,Enrollees,Unknown,8.24%,301
+2002,Enrollees,White,29.13%,1064
+2002,Enrollees,Asian,44.98%,1643
+2002,Enrollees,Chicano/Latino,10.98%,401
+2002,Enrollees,American Indian,0.38%,14
+2002,Enrollees,African American,3.91%,143
+2002,Enrollees,All,100.00%,3653
+2001,Enrollees,International,1.48%,57
+2001,Enrollees,Unknown,10.39%,399
+2001,Enrollees,White,29.58%,1136
+2001,Enrollees,Asian,44.16%,1696
+2001,Enrollees,Chicano/Latino,10.10%,388
+2001,Enrollees,American Indian,0.57%,22
+2001,Enrollees,African American,3.72%,143
+2001,Enrollees,All,100.00%,3841
+2000,Enrollees,International,2.12%,79
+2000,Enrollees,Unknown,10.76%,402
+2000,Enrollees,White,30.09%,1124
+2000,Enrollees,Asian,43.80%,1636
+2000,Enrollees,Chicano/Latino,8.73%,326
+2000,Enrollees,American Indian,0.54%,20
+2000,Enrollees,African American,3.96%,148
+2000,Enrollees,All,100.00%,3735
+1999,Enrollees,International,2.52%,91
+1999,Enrollees,Unknown,9.78%,354
+1999,Enrollees,White,30.71%,1111
+1999,Enrollees,Asian,43.78%,1584
+1999,Enrollees,Chicano/Latino,9.12%,330
+1999,Enrollees,American Indian,0.61%,22
+1999,Enrollees,African American,3.48%,126
+1999,Enrollees,All,100.00%,3618
+1998,Enrollees,International,1.77%,66
+1998,Enrollees,Unknown,15.74%,588
+1998,Enrollees,White,29.18%,1090
+1998,Enrollees,Asian,42.28%,1579
+1998,Enrollees,Chicano/Latino,7.28%,272
+1998,Enrollees,American Indian,0.37%,14
+1998,Enrollees,African American,3.37%,126
+1998,Enrollees,All,100.00%,3735
+1997,Enrollees,International,1.76%,63
+1997,Enrollees,Unknown,6.44%,230
+1997,Enrollees,White,29.17%,1042
+1997,Enrollees,Asian,41.46%,1481
+1997,Enrollees,Chicano/Latino,13.33%,476
+1997,Enrollees,American Indian,0.62%,22
+1997,Enrollees,African American,7.22%,258
+1997,Enrollees,All,100.00%,3572
+1996,Enrollees,International,1.89%,70
+1996,Enrollees,Unknown,7.23%,268
+1996,Enrollees,White,29.53%,1095
+1996,Enrollees,Asian,39.19%,1453
+1996,Enrollees,Chicano/Latino,14.75%,547
+1996,Enrollees,American Indian,1.29%,48
+1996,Enrollees,African American,6.12%,227
+1996,Enrollees,All,100.00%,3708
+1995,Enrollees,International,2.61%,89
+1995,Enrollees,Unknown,6.17%,210
+1995,Enrollees,White,30.08%,1024
+1995,Enrollees,Asian,37.43%,1274
+1995,Enrollees,Chicano/Latino,15.57%,530
+1995,Enrollees,American Indian,1.82%,62
+1995,Enrollees,African American,6.32%,215
+1995,Enrollees,All,100.00%,3404
+1994,Enrollees,International,1.85%,62
+1994,Enrollees,Unknown,5.65%,189
+1994,Enrollees,White,29.00%,970
+1994,Enrollees,Asian,41.49%,1388
+1994,Enrollees,Chicano/Latino,14.86%,497
+1994,Enrollees,American Indian,1.11%,37
+1994,Enrollees,African American,6.04%,202
+1994,Enrollees,All,100.00%,3345
